@@ -405,7 +405,7 @@ object {
   /* 1 */
   vertical-align: middle;
   /* 2 */
-  border-radius: 6px;
+  border-radius: 6px !important;
   /* 3 */
 }
 
